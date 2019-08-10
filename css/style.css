@@ -46,6 +46,12 @@ header{
     padding: 250px 0 200px;
 }
 
-
+.footer-main-div{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background:  #272727;
+    padding: 20px 0px;
+}
 
 
