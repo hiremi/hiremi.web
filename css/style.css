@@ -29,5 +29,22 @@ header{
     color: #262626;
 }
 
+.nav-item{
+    font-weight: 800;
+    text-transform:  uppercase;
+}
+.navbar-light .navbar-nav .nav-item .nav-link:hover,.navbar-light .navbar-nav .nav-item.active .nav-link{
+    background: #262626;
+    color: #fff;
+}
+.banner{
+    position: relative;
+    min-height:100vh;
+    background-size: cover;
+    background-position: center;
+    padding: 250px 0 200px;
+}
+
+
 
 
